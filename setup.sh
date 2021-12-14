@@ -1,4 +1,5 @@
 #!/bin/bash
+#script by gugun
 
 EMAIL=me@gmail.com
 KEY=11111111111111111111111111
